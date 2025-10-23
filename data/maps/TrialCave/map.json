@@ -56,8 +56,8 @@
     },
     {
       "type": "hidden_item",
-      "x": 8,
-      "y": 6,
+      "x": 5,
+      "y": 3,
       "elevation": 0,
       "item": "ITEM_FRESH_WATER",
       "flag": "FLAG_HIDDEN_ITEM_TRIAL_CAVE_FRESH_WATER"
