@@ -1233,7 +1233,23 @@
     },
     {
       "id": "MAPSEC_SimcoxMaps",
+      "name": "Birch's Lab"
+    },
+    {
+      "id": "MAPSEC_KavaVillage",
+      "name": "Kava Village"
+    },
+    {
+      "id": "MAPSEC_Doug",
       "name": "Doug's House"
+    },
+    {
+      "id": "MAPSEC_KavaMountain",
+      "name": "Kava Mountain"
+    },
+    {
+      "id": "MAPSEC_KavaNorth",
+      "name": "North Kava"
     }
   ]
 }

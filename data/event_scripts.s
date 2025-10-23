@@ -1071,3 +1071,9 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/KavaLab/scripts.inc"
 
 	.include "data/maps/KavaHouse1/scripts.inc"
+
+	.include "data/maps/KavaEast/scripts.inc"
+
+	.include "data/maps/MelkorBeach/scripts.inc"
+
+	.include "data/maps/ScytheWood/scripts.inc"

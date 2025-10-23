@@ -4480,6 +4480,36 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/KavaHouse1/border.bin",
       "blockdata_filepath": "data/layouts/KavaHouse1/map.bin"
+    },
+    {
+      "id": "LAYOUT_KAVA_EAST",
+      "name": "KavaEast_Layout",
+      "width": 34,
+      "height": 9,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/KavaEast/border.bin",
+      "blockdata_filepath": "data/layouts/KavaEast/map.bin"
+    },
+    {
+      "id": "LAYOUT_MELKOR_BEACH",
+      "name": "MelkorBeach_Layout",
+      "width": 9,
+      "height": 33,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/MelkorBeach/border.bin",
+      "blockdata_filepath": "data/layouts/MelkorBeach/map.bin"
+    },
+    {
+      "id": "LAYOUT_SCYTHE_WOOD",
+      "name": "ScytheWood_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/ScytheWood/border.bin",
+      "blockdata_filepath": "data/layouts/ScytheWood/map.bin"
     }
   ]
 }

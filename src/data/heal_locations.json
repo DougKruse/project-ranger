@@ -139,10 +139,28 @@
       "y": 8
     },
     {
+      "id": "HEAL_LOCATION_KAVA_EAST",
+      "map": "MAP_KAVA_EAST",
+      "x": 26,
+      "y": 4
+    },
+    {
       "id": "HEAL_LOCATION_KAVA_VILLAGE",
       "map": "MAP_KAVA_VILLAGE",
-      "x": 14,
-      "y": 11
+      "x": 11,
+      "y": 12
+    },
+    {
+      "id": "HEAL_LOCATION_KAVA_VILLAGE_2",
+      "map": "MAP_KAVA_VILLAGE",
+      "x": 12,
+      "y": 12
+    },
+    {
+      "id": "HEAL_LOCATION_KAVA_VILLAGE_3",
+      "map": "MAP_KAVA_VILLAGE",
+      "x": 13,
+      "y": 12
     },
     {
       "id": "HEAL_LOCATION_NORTH_KAVA",
