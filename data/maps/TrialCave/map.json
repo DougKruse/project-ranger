@@ -52,7 +52,7 @@
       "y": 10,
       "elevation": 0,
       "item": "ITEM_MASTER_BALL",
-      "flag": "FLAG_HIDDEN_ITEM_TRIAL_CAVE_MASTER_BALL"
+      "flag": "FLAG_TRIAL_CAVE_MASTER_BALL"
     },
     {
       "type": "hidden_item",
