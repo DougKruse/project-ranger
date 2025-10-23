@@ -24,8 +24,8 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
-      "flag": "FLAG_TEMP_1"
+      "script": "TrialCave_Starter",
+      "flag": "FLAG_STARTERS"
     }
   ],
   "warp_events": [
@@ -52,15 +52,15 @@
       "y": 10,
       "elevation": 0,
       "item": "ITEM_MASTER_BALL",
-      "flag": "FLAG_TEMP_1"
+      "flag": "FLAG_HIDDEN_ITEM_TRIAL_CAVE_MASTER_BALL"
     },
     {
       "type": "hidden_item",
-      "x": 9,
+      "x": 8,
       "y": 6,
       "elevation": 0,
       "item": "ITEM_FRESH_WATER",
-      "flag": "FLAG_TEMP_2"
+      "flag": "FLAG_HIDDEN_ITEM_TRIAL_CAVE_FRESH_WATER"
     }
   ]
 }
