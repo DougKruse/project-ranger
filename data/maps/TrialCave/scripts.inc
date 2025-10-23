@@ -15,7 +15,7 @@ TrialCave_Starter::
 	end
 
 TrialCave_Text_NewStarter:
-    .string "Hey, free stuff?$"
+    .string "Oh damn, my bag!$"
 
 TrialCave_Text_AfterChoice:
-    .string "Yoink!$"
+    .string "Oh no, the other\n balls are broken!$"
