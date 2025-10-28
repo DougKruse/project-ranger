@@ -26,6 +26,19 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "TrialCave_Starter",
       "flag": "FLAG_STARTERS"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_SWIMMER_F",
+      "x": 5,
+      "y": 5,
+      "elevation": 1,
+      "movement_type": "MOVEMENT_TYPE_WALK_LEFT_AND_RIGHT",
+      "movement_range_x": 3,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NORMAL",
+      "trainer_sight_or_berry_tree_id": "3",
+      "script": "TrialCave_EventScript_Doug_Test",
+      "flag": "0"
     }
   ],
   "warp_events": [
@@ -64,3 +77,4 @@
     }
   ]
 }
+
