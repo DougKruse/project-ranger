@@ -12434,3 +12434,41 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayLinkPlaceholder[] = {
     .species = SPECIES_KYOGRE,
     }
 };
+
+/*
+static const struct TrainerMonNoItemCustomMoves sParty_Chip[] = {
+    {
+    .iv = 50,
+    .lvl = 27,
+    .species = SPECIES_BALTOY,
+    .moves = {MOVE_PSYBEAM, MOVE_SELF_DESTRUCT, MOVE_SANDSTORM, MOVE_ANCIENT_POWER}
+    },
+    {
+    .iv = 50,
+    .lvl = 27,
+    .species = SPECIES_SANDSHREW,
+    .moves = {MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING}
+    },
+    {
+    .iv = 50,
+    .lvl = 27,
+    .species = SPECIES_SANDSLASH,
+    .moves = {MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING}
+    }
+};
+*/
+
+static const struct TrainerMonNoItemCustomMoves sParty_Doug_test[] = {
+    {
+        .iv = 0,
+        .lvl = 5,
+        .species = SPECIES_MUDKIP,
+        .moves = {MOVE_MUD_SLAP},
+    },
+    {
+        .iv = 0,
+        .lvl = 5,
+        .species = SPECIES_ONIX,
+        .moves = {MOVE_MEGA_KICK}
+    }
+};

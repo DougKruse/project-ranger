@@ -14,6 +14,10 @@ TrialCave_Starter::
 	release
 	end
 
+TrialCave_EventScript_Doug_Test::
+	trainerbattle_single TRAINER_DOUG_TEST, Test_Text_DougIntro, Test_Text_DougDefeated
+	end
+
 TrialCave_Text_NewStarter:
     .string "Hey, free stuff?$"
 

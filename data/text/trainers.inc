@@ -4779,3 +4779,11 @@ Route134_Text_HudsonPostBattle:
 	.string "Our boat drifted out to sea.\p"
 	.string "My buddy's a timid fellow, so I'm\n"
 	.string "worried about him.$"
+
+Test_Text_DougIntro:
+	.string "Ayyy.\n"
+	.string "Wanna Wanga!$"
+
+Test_Text_DougDefeated:
+	.string "Reeeeee!$"
+
